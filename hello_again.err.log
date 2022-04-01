@@ -1,0 +1,1574 @@
+E:\NodeJs\erp01\app.js:125
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:125:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:125
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:125:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:125
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:125:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:123:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:123:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:125
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:125:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:123:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:125
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:125:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:125
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:125:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+events.js:353
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (E:\NodeJs\erp01\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\NodeJs\erp01\app.js:131:5)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+E:\NodeJs\erp01\app.js:133
+    console.log('  Phase :' + process.env.ENV_NAME.info);
+                                                   ^
+
+TypeError: Cannot read property 'info' of undefined
+    at Server.<anonymous> (E:\NodeJs\erp01\app.js:133:52)
+    at Object.onceWrapper (events.js:482:28)
+    at Server.emit (events.js:376:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
